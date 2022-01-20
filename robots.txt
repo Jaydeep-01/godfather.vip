@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /database/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /vendor/
+
+Sitemap: https://movies.godfather.vip/sitemap.xml

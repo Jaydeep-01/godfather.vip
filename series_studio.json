@@ -1,0 +1,142 @@
+[
+	{
+		"title":"ALT Balaji",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&with_networks=2112",
+		"image":"https://movies.godfather.vip/images/studios/alt_balaji-min.jpg"
+	},
+	{
+		"title":"Netflix",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&with_networks=213",
+		"image":"https://movies.godfather.vip/images/studios/netflix-min.jpg"
+	},
+	{
+		"title":"Disney",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=134315|134208|134209|41452|3475|112779|126022|26151|104966|99981|4855|2|88716|113455|41712|670|15935|89347|120254|52126|130098|107039|13571|109755|124560|91233|3166|96808|12925|71124|52045|6125|35162|20193|126540|107038|81026|40148|112149|119490|111152|101999|135745|3202|103374|111619|5391|4436|121483",
+		"image":"https://movies.godfather.vip/images/studios/the_walt_disney-min.jpg"
+	},
+	{
+		"title":"Sony Pictures",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=108537|126029|116423|79564|34|82346|51481|55494|30692|59311|134941|53390|30794|2251|58|11073|4375|3045|5388|21433|19521|104964|104964|71244|23392|87086|15454|83649|55962|118997|76981|65451|65451|101555|4039|132794|5458|121387|648|63520|86203|120874|37764|85908|123646|67970|128923|122578|103664|102223|134940|128372|118405|94444|83980|14577|110417|5184|78526|23473|647|133259|107926",
+		"image":"https://movies.godfather.vip/images/studios/sony_pictures-min.jpg"
+	},
+	{
+		"title":"Zee5",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=123635|86347|128784|47335|3994|65217|110304|65274|83077|18644|122215|85677",
+		"image":"https://movies.godfather.vip/images/studios/zee5-min.jpg"
+	},
+	{
+		"title":"HBO",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=3268|7429|87179|134938|27289|86366|48582|37659|6751|89525|13670|119349|14914|21222|44618|6107|67207|11489",
+		"image":"https://movies.godfather.vip/images/studios/hbo-min.jpg"
+	},
+	{
+		"title":"Amazon Studio",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&with_networks=1024",
+		"image":"https://movies.godfather.vip/images/studios/amazon_studio-min.jpg"
+	},
+	{
+		"title":"Warner Bros",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=135087|128657|1957|17466|2785|174|3627|8298|17|86778|2913|125252|4312|103747|105296|70001|96105|12001|105378|5301|13034|134020|12923|122021|124082|114691|3592|31898|134509|11652|14772|5786|108542|64649|135482|94521|109759|117428|109758|104828",
+		"image":"https://movies.godfather.vip/images/studios/warner_bros-min.jpg"
+	},
+	{
+		"title":"20th Century Studio",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=127928|25",
+		"image":"https://movies.godfather.vip/images/studios/20th_century_studio-min.jpg"
+	},
+	{
+		"title":"Paramount Pictures",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=135360|108107|107355|6248|90738|100612|21834|4",
+		"image":"https://movies.godfather.vip/images/studios/paramount_pictures-min.jpg"
+	},
+	{
+		"title":"Universal Pictures",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=33|134684|1546|26333|29356|47406|58898|36190|4400|135539|12920|7556|87752|42|3852|66178|87008|47046|64471|20945|5726|103915|2220|47036|85886|7776",
+		"image":"https://movies.godfather.vip/images/studios/universal_pictures-min.jpg"
+	},
+	{
+		"title":"Columbia Pictures",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=5|5848|3614|106728|128664|83872|93327|3928|2798|26976|76795",
+		"image":"https://movies.godfather.vip/images/studios/columbia_pictures-min.jpg"
+	},
+	{
+		"title":"metro goldwyn mayer",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=21|124462|40147|102595|5579|64426|2230",
+		"image":"https://movies.godfather.vip/images/studios/metro_goldwyn_mayer-min.jpg"
+	},
+	{
+		"title":"lionsgate",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=1632|28523|85885|131461|40566|112794",
+		"image":"https://movies.godfather.vip/images/studios/lionsgate-min.jpg"
+	},
+	{
+		"title":"dreamworks pictures",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=7",
+		"image":"https://movies.godfather.vip/images/studios/dreamworks_pictures-min.jpg"
+	},
+	{
+		"title":"viacom",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=59051|5308|12077|22211|99434|133605|8920|65352|125586|6808",
+		"image":"https://movies.godfather.vip/images/studios/viacom-min.jpg"
+	},
+	{
+		"title":"new line cinema",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=12",
+		"image":"https://movies.godfather.vip/images/studios/new_line_cinema-min.jpg"
+	},
+	{
+		"title":"screen gems",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=3287|12551|53877|51990",
+		"image":"https://movies.godfather.vip/images/studios/screen_gems-min.jpg"
+	},
+	{
+		"title":"castle rock entertainment",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=97",
+		"image":"https://movies.godfather.vip/images/studios/castle_rock_entertainment-min.jpg"
+	},
+	{
+		"title":"pixar",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=3|41768",
+		"image":"https://movies.godfather.vip/images/studios/pixar-min.jpg"
+	},
+	{
+		"title":"Reliance Entertainment",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=52075|7294|32852|72613|32851|134371|90606|6733|118125|127642",
+		"image":"https://movies.godfather.vip/images/studios/reliance_entertainment-min.jpg"
+	},
+	{
+		"title":"marvel studios",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=420",
+		"image":"https://movies.godfather.vip/images/studios/marvel_studios-min.jpg"
+	},
+	{
+		"title":"United Artis",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&page=1&with_companies=60|107096|79953|119750|77503|21827",
+		"image":"https://movies.godfather.vip/images/studios/united_artis-min.jpg"
+	},
+	{
+		"title":"Ullu",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&with_networks=2902",
+		"image":"https://movies.godfather.vip/images/studios/ullu-min.jpg"
+	},
+	{
+		"title":"MX Player",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&with_networks=2964",
+		"image":"https://movies.godfather.vip/images/studios/mx_player-min.jpg"
+	},
+	{
+		"title":"Hoichoi",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&with_networks=2139",
+		"image":"https://movies.godfather.vip/images/studios/hoichoi-min.jpg"
+	},
+	{
+		"title":"TVF",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&with_networks=1145",
+		"image":"https://movies.godfather.vip/images/studios/tvf-min.jpg"
+	},
+	{
+		"title":"Voot",
+		"url":"https://api.themoviedb.org/3/discover/tv?api_key=b7921279f7ccce7fec7a0950f5da561a&sort_by=primary_release_date.desc&with_networks=2532",
+		"image":"https://movies.godfather.vip/images/studios/voot-min.jpg"
+	}
+]
